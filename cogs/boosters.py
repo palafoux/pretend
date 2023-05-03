@@ -1,4 +1,4 @@
-import discord, io, emoji, re 
+import discord, io, emoji, re, os
 from discord.ext import commands
 from tools.checks import Perms
 from typing import Union
