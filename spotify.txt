@@ -1,5 +1,5 @@
-clientid = "f567fb50e0b94b4e8224d2960a00e3ce"
-clientsecret = "f4294b7b837940f996b3a4dcf5230628"
+clientid = "0d94027f373d4bc9b156fd2c9609b899"
+clientsecret = "e4ea4cbf65464353902919684ba1eef4"
 await cursor.execute("CREATE TABLE IF NOT EXISTS spotify (user_id INTEGER, access_token TEXT)")
 
 class SpotifyModal(Modal, title="Submit your code"): 

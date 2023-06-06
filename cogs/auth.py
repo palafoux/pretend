@@ -2,7 +2,7 @@ import discord, datetime
 from discord.ext import commands, tasks 
 from typing import Union
 
-owners = [371224177186963460, 859646668672598017, 715556407474389074, 288748368497344513, 962828058644074507, 1071425392478527559, 662011571358400534, 994896336040239114]
+owners = [297570904807047168]
 
 def is_owner(): 
  async def predicate(ctx: commands.Context): 
